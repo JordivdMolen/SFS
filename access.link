@@ -6,7 +6,7 @@
 		"Sharing": 
 		{
 			"Protocol": "1.0",
-			"Client": "1.0"
+			"Client": "0.4"
 		}
 	}
 }
